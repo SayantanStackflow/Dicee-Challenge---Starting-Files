@@ -11,20 +11,20 @@
 }
 
 body {
-  background-color: #393E46;
+  background-color: #404258;
 }
 
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 5px 0 #6B728E;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: #FFE1E1;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #90A17D;
   font-family: 'Indie Flower', cursive;
 }
 
